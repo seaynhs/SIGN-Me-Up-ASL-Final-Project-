@@ -8,6 +8,10 @@
     height: auto;
 }
 
+#ltmphoto{
+  color: white;
+}
+
 body {
   background-image: url("sunset.jpg");
   background-repeat: repeat-y;
